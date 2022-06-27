@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -e /etc/passwd
+/etc/passwd -a 972b7d5f0ad928bb68a7
