@@ -1,2 +1,2 @@
 #!/bin/bsh
-cat list  sort | uniq-u 
+cat list | sort | uniq-u 
